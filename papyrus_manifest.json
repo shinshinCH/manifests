@@ -1,0 +1,312 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/c44d9cdc-e710-4b7f-a52e-05e2fa8175d2.json",
+	"@type": "sc:Manifest",
+	"label": "Bodleian Library MS. Gr. bib. g. 4 (P)",
+	"description": "Acts of the Apostles",
+	"metadata": [
+		{
+			"label": "Homepage",
+			"value": "<span><a href=\"https://digital.bodleian.ox.ac.uk/objects/c44d9cdc-e710-4b7f-a52e-05e2fa8175d2/\">View on Digital Bodleian</a></span>"
+		},
+		{
+			"label": "Title",
+			"value": "Acts of the Apostles"
+		},
+		{
+			"label": "Shelfmark",
+			"value": "Bodleian Library MS. Gr. bib. g. 4 (P)"
+		},
+		{
+			"label": "Language",
+			"value": "Greek"
+		},
+		{
+			"label": "Date Statement",
+			"value": "3rd century"
+		},
+		{
+			"label": "Place of Origin",
+			"value": "Egypt, Oxyrhynchus (?)"
+		},
+		{
+			"label": "Contents Note",
+			"value": "xxvi, 7–8, 20."
+		},
+		{
+			"label": "Materials",
+			"value": "Papyrus"
+		},
+		{
+			"label": "Hand",
+			"value": "Uncial."
+		},
+		{
+			"label": "Record Origin",
+			"value": "Summary description abbreviated from the Trismegistos record and from unpublished notes of E. Lobel."
+		},
+		{
+			"label": "Collection",
+			"value": "Greek and Latin Papyri"
+		},
+		{
+			"label": "Catalogue Identifier",
+			"value": "P. Oxy. XIII 1597"
+		},
+		{
+			"label": "Catalogue Identifier",
+			"value": "Trismegistos 61701"
+		},
+		{
+			"label": "Record Created",
+			"value": "2022-03-23T09:36:35Z"
+		},
+		{
+			"label": "Holding Institution",
+			"value": "Bodleian Libraries, University of Oxford"
+		},
+		{
+			"label": "Digitization Sponsor",
+			"value": "<span>The Tolkien Trust</span>"
+		}
+	],
+	"navDate": "200-01-01T00:00:00Z",
+	"rendering": {
+		"@id": "https://digital.bodleian.ox.ac.uk/objects/c44d9cdc-e710-4b7f-a52e-05e2fa8175d2/",
+		"label": "View on Digital Bodleian",
+		"format": "text/html"
+	},
+	"attribution": "<span>Photo: © Bodleian Libraries, University of Oxford. Terms of use: <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC-BY-NC 4.0</a>. For more information, please see <a href=\"https://digital.bodleian.ox.ac.uk/terms/\">https://digital.bodleian.ox.ac.uk/terms/</a></span>",
+	"logo": {
+		"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/f27e28db-0b08-4f16-9bdf-3565f591fb71/full/256,/0/default.jpg",
+		"@type": "dctypes:Image",
+		"format": "image/jpeg",
+		"service": {
+			"@context": "http://iiif.io/api/image/2/context.json",
+			"profile": "http://iiif.io/api/image/2/level1.json",
+			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/f27e28db-0b08-4f16-9bdf-3565f591fb71"
+		}
+	},
+	"thumbnail": {
+		"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/b67e357e-dd69-4f9b-8651-62e74867aac1/full/256,/0/default.jpg",
+		"@type": "dctypes:Image",
+		"format": "image/jpeg",
+		"service": {
+			"@context": "http://iiif.io/api/image/2/context.json",
+			"profile": "http://iiif.io/api/image/2/level1.json",
+			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/b67e357e-dd69-4f9b-8651-62e74867aac1"
+		}
+	},
+	"viewingHint": "paged",
+	"viewingDirection": "left-to-right",
+	"sequences": [
+		{
+			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/sequence/c44d9cdc-e710-4b7f-a52e-05e2fa8175d2_default.json",
+			"@type": "sc:Sequence",
+			"label": "Default",
+			"canvases": [
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b67e357e-dd69-4f9b-8651-62e74867aac1.json",
+					"@type": "sc:Canvas",
+					"label": "recto",
+					"width": 7319,
+					"height": 6341,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/b67e357e-dd69-4f9b-8651-62e74867aac1.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b67e357e-dd69-4f9b-8651-62e74867aac1.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/b67e357e-dd69-4f9b-8651-62e74867aac1",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 7319,
+								"height": 6341,
+								"service": {
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/b67e357e-dd69-4f9b-8651-62e74867aac1",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "http://dbd330b3-14eb-4537-aac8-b8684cc87141",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 7804,
+					"width": 4863,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2be5b900-2e5a-4c9a-906e-fedbd5e94e83",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.unige.ch/iiif/2/1072205340_002/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.unige.ch/iiif/2/1072205340_002",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 37950852,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 7804,
+								"width": 4863
+							},
+							"on": "http://dbd330b3-14eb-4537-aac8-b8684cc87141"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/218382ae-1845-4425-a96e-9c0ef3f54a78.json",
+					"@type": "sc:Canvas",
+					"label": "verso",
+					"width": 7319,
+					"height": 6341,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/218382ae-1845-4425-a96e-9c0ef3f54a78.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/218382ae-1845-4425-a96e-9c0ef3f54a78.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/218382ae-1845-4425-a96e-9c0ef3f54a78",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 7319,
+								"height": 6341,
+								"service": {
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/218382ae-1845-4425-a96e-9c0ef3f54a78",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "http://3a5b99c3-0150-47ba-9ee0-ea8c72583e3b",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 7804,
+					"width": 4863,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4453b500-f571-4746-ad55-2b76c5c0b06c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.unige.ch/iiif/2/1072205340_003/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.unige.ch/iiif/2/1072205340_003",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 37950852,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 7804,
+								"width": 4863
+							},
+							"on": "http://3a5b99c3-0150-47ba-9ee0-ea8c72583e3b"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [
+		{
+			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/range/c44d9cdc-e710-4b7f-a52e-05e2fa8175d2/LOG_0000",
+			"@type": "sc:Range",
+			"label": "MS. Gr. bib. g. 4 (P)",
+			"viewingHint": "top",
+			"canvases": [
+				"https://iiif.bodleian.ox.ac.uk/iiif/canvas/b67e357e-dd69-4f9b-8651-62e74867aac1.json",
+				"https://iiif.bodleian.ox.ac.uk/iiif/canvas/218382ae-1845-4425-a96e-9c0ef3f54a78.json"
+			],
+			"startCanvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b67e357e-dd69-4f9b-8651-62e74867aac1.json"
+		}
+	]
+}
